@@ -82,7 +82,8 @@ her
 hero
 sh
 ```
-
+## Output_Image
+[main_frame](https://github.com/aditya26062003/AhoCorasickProject/blob/master/Screenshots/Screenshot%202024-07-14%20205250.png)
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
