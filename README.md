@@ -49,7 +49,7 @@ AhoCorasickProject/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/aditya26062003/AhoCorasickProject.git
+   git clone https://github.com/EchoSingh/AhoCorasickProject.git
    cd AhoCorasickProject
    ```
 
@@ -83,11 +83,11 @@ hero
 sh
 ```
 ## Output_Image
-[main_frame](https://github.com/aditya26062003/AhoCorasickProject/blob/master/Screenshots/Screenshot%202024-07-14%20205250.png)
+[main_frame](https://github.com/EchoSingh/AhoCorasickProject/blob/master/Screenshots/Screenshot%202024-07-14%20205250.png)
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 ## 👤 Author
 
-- GitHub: [aditya26062003](https://github.com/aditya26062003)
+- GitHub: [aditya26062003](https://github.com/EchoSingh)
