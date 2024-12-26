@@ -1,4 +1,4 @@
-
+[![wakatime](https://wakatime.com/badge/github/EchoSingh/AhoCorasickProject.svg)](https://wakatime.com/badge/github/EchoSingh/AhoCorasickProject)
 # 🎯 Aho-Corasick Visualization Project
 
 Welcome to the Aho-Corasick Visualization Project! This project visualizes the Aho-Corasick string matching algorithm using wxWidgets for the graphical user interface. The algorithm efficiently searches for multiple patterns in a given text, providing visualization of its steps, memory consumption, and results.
